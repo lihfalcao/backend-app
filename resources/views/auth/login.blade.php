@@ -50,7 +50,7 @@
         <div class="flex items-center justify-end mt-4">
             <a href="{{ route('register') }}" class="inline-flex items-center justify-center" style="width: 95%">
                 <x-secondary-button class="items-center" style="width:95%">
-                    {{ __('Registrar') }}
+                    {{ __('Cadastrar') }}
                 </x-secondary-button>
             </a>
         </div>
